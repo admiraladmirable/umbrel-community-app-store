@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: topl-bifrost-node
+category: Refi
+name: Topl Bifrost Node
+version: "2.0.0-alpha2"
+tagline: Blockchain node for the Topl network
+description: >-
+  Lorem Ipsum
+releaseNotes: >-
+  Dark mode is finally here! Easily switch between your preferred mode
+  in one click.
+
+  This version also includes lots of minor styling improvements, better
+  error handling, and several bugfixes.
+developer: Rick Morrow
+website: https://topl.co
+dependencies:
+  - bitcoin
+  - electrs
+repo: https://github.com/topl/Bifrost
+support: https://github.com/topl/Bifrost/discussions
+port: 9085
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
