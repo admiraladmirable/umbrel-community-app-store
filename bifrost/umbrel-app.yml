@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: topl-bifrost-node
+id: bifrost-node
 category: Refi
 name: Topl Bifrost Node
 version: "2.0.0-alpha2"
