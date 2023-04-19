@@ -4,6 +4,7 @@ category: Refi
 name: Topl Bifrost Node
 version: "2.0.0-alpha2"
 tagline: Blockchain node for the Topl network
+icon: https://cdn.discordapp.com/icons/690586882400190624/f67d1248aaa559b15e7cdb8eb28e637a.webp?size=96
 description: >-
   Lorem Ipsum
 releaseNotes: >-
@@ -15,8 +16,6 @@ releaseNotes: >-
 developer: Rick Morrow
 website: https://topl.co
 dependencies:
-  - bitcoin
-  - electrs
 repo: https://github.com/topl/Bifrost
 support: https://github.com/topl/Bifrost/discussions
 port: 9085
