@@ -25,7 +25,6 @@ dependencies:
 repo: https://github.com/topl/Bifrost
 support: https://github.com/topl/Bifrost/discussions
 port: 9085
-gallery:
 path: ""
 defaultUsername: ""
 defaultPassword: ""
