@@ -1,4 +1,4 @@
-manifestVersion: 1
+manifestVersion: 2
 id: bifrost-node
 category: Refi
 name: Topl Bifrost Node
@@ -24,6 +24,8 @@ website: https://topl.co
 repo: https://github.com/topl/Bifrost
 support: https://github.com/topl/Bifrost/discussions
 port: 9085
+gallery: []
+dependencies: []
 path: ""
 defaultUsername: ""
 defaultPassword: ""
