@@ -21,7 +21,6 @@ releaseNotes: >-
   error handling, and several bugfixes.
 developer: Rick Morrow
 website: https://topl.co
-dependencies:
 repo: https://github.com/topl/Bifrost
 support: https://github.com/topl/Bifrost/discussions
 port: 9085
