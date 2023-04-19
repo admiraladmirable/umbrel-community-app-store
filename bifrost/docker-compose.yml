@@ -6,7 +6,7 @@ services:
       # <app-id>_<web-container-name>_1
       # e.g. 'btc-rpc-explorer_web_1'
       # Note that the '_1' at the end is needed
-      APP_HOST: topl-bifrost-node_1
+      APP_HOST: topl-bifrost-node_web_1
       APP_PORT: 9085
   
   web:
@@ -19,7 +19,7 @@ services:
       # expose more ports, add them below.
       - 9085:9085
       - 9084:9084
-    volumes:
+    volumes: []
       # Uncomment to mount your data directories inside
       # the Docker container for storing persistent data
       # - ${APP_DATA_DIR}/foo:/foo
@@ -32,7 +32,7 @@ services:
       # Uncomment to mount Bitcoin Core's data directory as
       # read-only inside the Docker container at path /bitcoin
       # - ${APP_BITCOIN_DATA_DIR}:/bitcoin:ro
-    environment:
+    environment: []
       # Pass any environment variables to your app for configuration in the form:
       # VARIABLE_NAME: value
       #
