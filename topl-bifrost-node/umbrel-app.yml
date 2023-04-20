@@ -19,7 +19,7 @@ developer: Rick Morrow
 website: https://topl.co
 repo: https://github.com/topl/Bifrost
 support: https://github.com/topl/Bifrost/discussions
-port: 9585
+port: 9999
 gallery: []
 dependencies: []
 path: ""
