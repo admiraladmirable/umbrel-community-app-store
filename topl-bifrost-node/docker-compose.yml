@@ -7,7 +7,7 @@ services:
       # e.g. 'btc-rpc-explorer_web_1'
       # Note that the '_1' at the end is needed
       APP_HOST: topl-bifrost-node_web_1
-      APP_PORT: 9085
+      APP_PORT: 9585
   
   web:
     image: toplprotocol/bifrost-node:2.0.0-alpha2
@@ -17,7 +17,7 @@ services:
       # Replace <port> with the port that your app's web server
       # is listening inside the Docker container. If you need to
       # expose more ports, add them below.
-      - 9085:9085
+      - 9585:9085
       - 9084:9084
     volumes: []
       # Uncomment to mount your data directories inside
