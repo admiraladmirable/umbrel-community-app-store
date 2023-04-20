@@ -17,7 +17,7 @@ services:
       # Replace <port> with the port that your app's web server
       # is listening inside the Docker container. If you need to
       # expose more ports, add them below.
-      - 9585:9085
+      - 9085:9085
       - 9084:9084
     volumes: []
       # Uncomment to mount your data directories inside
