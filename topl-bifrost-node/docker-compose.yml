@@ -13,13 +13,12 @@ services:
       PROXY_AUTH_ADD: "false"
   
   web:
-    image: yeasy/simple-web:latest
-    restart: on-failure
-    stop_grace_period: 1m
+    container_name: dozzle
+    image: amir20/dozzle:latest
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
     ports:
-      - 8989:80
-    volumes: []
-    environment: []
+      - 9999:8080
   
   node:
     image: toplprotocol/bifrost-node:2.0.0-alpha2
