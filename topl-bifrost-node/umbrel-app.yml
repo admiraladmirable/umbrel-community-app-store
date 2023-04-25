@@ -6,7 +6,12 @@ version: "2.0.0-alpha2"
 tagline: A Blockchain Built for Good.
 icon: https://cdn.discordapp.com/icons/690586882400190624/f67d1248aaa559b15e7cdb8eb28e637a.webp
 description: >-
-  Topl is a layer 0 (L0) blockchain network—designed to be highly modular and composable, supporting not only interoperability with other web3 networks but also powering multiple ledgers via a singular, secure consensus layer. The development of the Topl protocol placed two questions at the center of every decision made. How can we align our technology with Topl’s vision for the next economic transformation? How can we provide the easiest experience for builders developing their applications, tools, and platforms atop our infrastructure and for their end-users?
+  Topl is a layer 0 (L0) blockchain network—designed to be highly modular and composable, supporting not only interoperability with other web3 networks but also powering multiple ledgers via a singular, secure consensus layer.
+
+
+  The development of the Topl protocol placed two questions at the center of every decision made.
+      1. How can we align our technology with Topl’s vision for the next economic transformation?
+      2. How can we provide the easiest experience for builders developing their applications, tools, and platforms atop our infrastructure and for their end-users?
 
 
   Read our whitepaper: https://topl-1.gitbook.io/topl-whitepaper-beta-draft/.
